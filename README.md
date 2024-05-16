@@ -1,8 +1,10 @@
-# Timeline Generation Project
+# Event-Based Case Chronology Generation
 ![Demo](CaseLensDemo.gif)
 
 ## Overview
 Addressing the critical need within the legal profession, this project aims to develop a solution for efficiently analyzing vast volumes of legal documents. Lawyers often spend weeks aggregating evidence from numerous submissions to construct a chronological timeline of events relevant to a case, and in some cases, there can be thousands or even millions of documents to process. Hence, I propose developing a tool that will enable lawyers to upload case-related documents and get a chronological timeline of events related to the case, associating each event with its corresponding documents so they can easily refer to the source document. With the proposed tool, this time-consuming task will be streamlined into a fast and efficient process, analyzing documents within minutes instead of weeks. I believe this tool can be scaled to serve not only legal professionals but also various other fields that require efficient document analysis.
+
+For a detailed explanation, you can view the [presentation](https://pitch.com/v/event-based-case-chronology-generation-254cwn).
 
 ## Features
 - **Document Text Extraction:** Split PDF file into separate documents to match real-life use cases.
